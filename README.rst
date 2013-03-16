@@ -30,7 +30,7 @@ Here is an Example for the "daemon_main" :
     self.system = True
     while self.system:
         # DO SOME THINGS
-        self.logger.info('I am a happy daemon')
+        self.log.info('I am a happy daemon')
         time.sleep(20)
 
 
