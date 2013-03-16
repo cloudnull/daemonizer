@@ -37,4 +37,4 @@ Here is an Example for the "daemon_main" :
 Note that "self.system" is the equivalent of a Boolean value "``True``, ``False``".
 
 
-_ PEP-3143 Version 1.6: http://www.python.org/dev/peps/pep-3143/
+.. _PEP-3143 Version 1.6: http://www.python.org/dev/peps/pep-3143/
