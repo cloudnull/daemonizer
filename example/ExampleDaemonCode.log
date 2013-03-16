@@ -1,0 +1,10 @@
+2013-03-16 03:44:48,622 - ExampleDaemonCode Logging - INFO - Logger Online
+2013-03-16 03:44:48,622 - ExampleDaemonCode Logging - INFO - Daemon Dispatch envoked
+2013-03-16 03:44:48,623 - ExampleDaemonCode Logging - INFO - PID File is : /var/run/ExampleDaemonCode.pid
+2013-03-16 03:44:48,623 - ExampleDaemonCode Logging - INFO - Starting up the listener Daemon
+2013-03-16 03:44:48,637 - ExampleDaemonCode Logging - INFO - I am a happy daemon
+2013-03-16 03:45:08,658 - ExampleDaemonCode Logging - INFO - I am a happy daemon
+2013-03-16 03:45:19,462 - ExampleDaemonCode Logging - INFO - Logger Online
+2013-03-16 03:45:19,462 - ExampleDaemonCode Logging - INFO - Daemon Dispatch envoked
+2013-03-16 03:45:19,462 - ExampleDaemonCode Logging - INFO - PID File is : /var/run/ExampleDaemonCode.pid
+2013-03-16 03:45:19,463 - ExampleDaemonCode Logging - INFO - Exiting The Daemon Process for ExampleDaemonCode. Signal recieved was None on None
